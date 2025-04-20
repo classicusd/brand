@@ -1,26 +1,19 @@
 # classic-usd
-A stablecoin for the Ethereum Classic network.
+![png](./assets/logo_usc_1024x1024.png "Classic USD Logo")
+Classic USD (USC) is the foundational fiat-backed stablecoin for the Ethereum Classic network.
 
-## smart contract address
-* ethereum classic : [0xDE093684c796204224BC081f937aa059D903c52a](https://etc.blockscout.com/token/0xDE093684c796204224BC081f937aa059D903c52a)
-* mordor testnet: [0xDE093684c796204224BC081f937aa059D903c52a](https://etc-mordor.blockscout.com/token/0xDE093684c796204224BC081f937aa059D903c52a)
-
-## properties
+## Classic USD Properties
 * name: Classic USD
 * ticker: USC
 * decimals: 6
 * type: ERC-20
-* short description: Launched in 2024, Classic USD (USC) is a fiat-collateralized stablecoin issued through a partnership between Brale and EthereumClassic.com. Classic USD is the premiere native stablecoin for Ethereum Classic’s decentralized finance ecosystem, global payments, and on-chain fiat settlement. As of 2022, Ethereum Classic is the largest and most secure Proof-of-Work smart contract network in the world.
-* website: https://brale.xyz/stablecoins/USC
-* DEX: https://etcswap.org
-* screener: https://www.coingecko.com/coins/classic-usd
+* short description: Classic USD is a multichain fiat-backed stablecoin that connects the Ethereum Classic ecosystem to the global financial world. With quick processing times, low fees, and 1:1 collateralization, Classic USD is simply the best stablecoin product on the Ethereum Classic network. Start using the USC stablecoin today!
+* Classic USD Website: https://classicusd.com
+* Brale Platform Mint/Redeem: https://brale.xyz/stablecoins/USC
+* DEX Markets: https://etcswap.org
+* AMM Launchpad: https://usc.earnest.fun
+* Screener: https://www.coingecko.com/coins/classic-usd
 
-## visual assets
-
-### 200x200
-![gif](./assets/usc-logo-200x200.gif "gif")
-![png](./assets/usc-logo-200x200.png "png")
-
-### 2000x2000
-![gif](./assets/usc-source-2000x2000.gif "gif")
-![png](./assets/usc-source-2000x2000.png "png")
+## Classic USD Token Addresses
+* ethereum classic : [0xDE093684c796204224BC081f937aa059D903c52a](https://etc.blockscout.com/token/0xDE093684c796204224BC081f937aa059D903c52a)
+* mordor testnet: [0xDE093684c796204224BC081f937aa059D903c52a](https://etc-mordor.blockscout.com/token/0xDE093684c796204224BC081f937aa059D903c52a)
