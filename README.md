@@ -1,6 +1,6 @@
 # Classic USD
 Classic USD (USC) is the foundational fiat-backed stablecoin for the Ethereum Classic network.
-![png](./assets/logo_usc_1024x1024.png "Classic USD Logo")
+![png](./assets/logo_usc_1024x1024.png "Classic USD Logo" height="256" width="256")
 
 ## Classic USD Properties
 * name: Classic USD
