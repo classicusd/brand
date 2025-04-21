@@ -1,5 +1,6 @@
 # Classic USD
-Classic USD (USC) is the foundational fiat-backed stablecoin for the Ethereum Classic network.
+Classic USD is a multichain fiat-backed stablecoin that connects the Ethereum Classic ecosystem to the global financial world. With quick processing times, low fees, and 1:1 collateralization, Classic USD is simply the best stablecoin product on the Ethereum Classic network. Start using the USC stablecoin today!
+
 ![Classic USD](./social_cards/socialcard_og.png "Classic USD")
 
 ## Classic USD Properties
@@ -8,7 +9,7 @@ Classic USD (USC) is the foundational fiat-backed stablecoin for the Ethereum Cl
 * ticker: USC
 * decimals: 6
 * type: ERC-20
-* short description: Classic USD is a multichain fiat-backed stablecoin that connects the Ethereum Classic ecosystem to the global financial world. With quick processing times, low fees, and 1:1 collateralization, Classic USD is simply the best stablecoin product on the Ethereum Classic network. Start using the USC stablecoin today!
+* short description: Classic USD is the premier native stablecoin for Ethereum Classic’s decentralized finance ecosystem, global payments, and on-chain fiat settlement.
 
 ## Classic USD Links
 * Classic USD Website: https://classicusd.com
